@@ -20,7 +20,7 @@ A Cervejaria BeboSim precisa de um sistema completo para gerenciar sua produçã
 
 ## 📂 Estrutura do Projeto
 
-- `/docs` — Documentação técnica e organização das tarefas ([ver detalhes](docs/README.md))
+- `/docs` — Documentação técnica e organização das tarefas ([ver detalhes](docs/readme.md))
 - `README.md` — Este arquivo, visão geral do projeto
 
 ## 🚀 Metodologia
